@@ -5,4 +5,4 @@ app=Flask(__name__)
 
 def hello():
     return " hello from Azure web app sevrice"
-app.run(host='0.0.0.0')
+
